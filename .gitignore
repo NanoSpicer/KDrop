@@ -2,3 +2,6 @@
 .idea
 
 local.properties
+/desktop/build/
+/common/build/
+/build/
