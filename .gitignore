@@ -1,4 +1,6 @@
 .gradle
 .idea
-
+android/build/
+common/build/
+desktop/build/
 local.properties
