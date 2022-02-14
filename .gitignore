@@ -3,4 +3,5 @@
 android/build/
 common/build/
 desktop/build/
+/build/
 local.properties
