@@ -31,6 +31,7 @@ android {
     }
     buildTypes {
         getByName("release") {
+            // aas
             isMinifyEnabled = false
         }
     }
